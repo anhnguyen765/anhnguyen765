@@ -7,13 +7,6 @@ About Me
     🌱 I'm constantly learning and exploring at the intersection of technology and data analysis.
     🤝 Leadership and teamwork are integral to my personal brand, honed through volunteering and leadership roles.
 
-What I Bring to the Table
-
-    🌟 Strong technical skills coupled with a passion for problem-solving.
-    📈 Proficient in front-end and back-end development, crafting powerful applications.
-    📊 Skilled in data analysis, with a knack for uncovering insights.
-    🤝 Proven leadership abilities and a team player mindset.
-
 Let's Connect!
 
 I'm always excited to chat about technology, data, or future career aspirations. Reach out, and let's expand our professional networks together! You can find me on LinkedIn or Twitter.

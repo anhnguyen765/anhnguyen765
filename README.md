@@ -6,7 +6,7 @@ I'm a Computer Science student at QUT, with a passion for crafting innovative we
 💻 I love the challenge of full-stack development and transforming raw data into meaningful insights.\
 📊 Data analysis and visualization excite me as much as coding does.\
 🌱 I'm constantly learning and exploring at the intersection of technology and data analysis.\
-🤝 Leadership and teamwork are integral to my personal brand, honed through volunteering and leadership roles.\
+🤝 Leadership and teamwork are integral to my personal brand, honed through volunteering and leadership roles.
 
 # Let's Connect!
 

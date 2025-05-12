@@ -1,8 +1,8 @@
-# Let's Connect!
+# About Me
+Hi, my name is Anh. I'm a front-end web developer with foundation in building responsive, user-friendly interfaces using HTML, CSS, JavaScript, and modern frameworks. I’m currently expanding my skill set into full-stack development and UI/UX design to create seamless, intuitive digital experiences from end to end.
 
-I'm always excited to chat about technology, data, or future career aspirations. Reach out, and let's expand our professional networks together! You can find me on [LinkedIn](https://www.linkedin.com/in/anh-nguyen76/).
+# Let's Connect
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anh-nguyen76/)
 
-Looking forward to connecting with you!
-
-Cheers,\
-Anh Nguyen
+# GitHub Stats
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=anhnguyen765&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
